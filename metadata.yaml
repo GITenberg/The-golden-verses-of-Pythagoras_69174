@@ -5,12 +5,17 @@ contributor:
     agent_name: Redfield, Nayán Louise
     gutenberg_agent_id: '55146'
     url: http://www.gutenberg.org/2009/agents/55146
+covers:
+- cover_type: archival
+  image_path: 69174-h/images/cover.jpg
 creator:
   author:
     agent_name: d'Olivet, Antoine Fabre
     gutenberg_agent_id: '55145'
     url: http://www.gutenberg.org/2009/agents/55145
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69174#The-golden-verses-of-Pythagoras
 gutenberg_issued: '2022-10-17'
 identifiers:
   gutenberg: '69174'
